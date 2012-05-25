@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/actionKeyboard"
+        android:enabled="true"
+        android:showAsAction="always"
+        android:title="@string/actionKeyboard"
+        android:visible="true" />
+    <item
+		android:id="@+id/actionCopy"
+		android:enabled="true"
+		android:title="@android:string/copy"
+		android:visible="true"
+		android:showAsAction="always" />
+    <item
+        android:id="@+id/actionPaste"
+        android:enabled="true"
+        android:showAsAction="always"
+        android:title="@android:string/paste"
+        android:visible="true" />
+</menu>

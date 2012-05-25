@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpecialChars xmlns:spc="http://schemas.android.com/apk/res/com.github.izadi.specialchars">
+	<Group spc:label="فاصله‌گذاری">
+		<Char spc:label="فاصلهٔ مجازی" spc:value="\u200c" />
+		<Char spc:label="اتصال مجازی" spc:value="\u200d" />
+		<Char spc:label="فاصلهٔ نشکن" spc:value="\u00a0" />
+	</Group>
+	<Group spc:label="حرکتها">
+		<Char spc:label="زبر (فتحه)" spc:value="\u064e" />
+		<Char spc:label="پیش (ضمه)" spc:value="\u064f" />
+		<Char spc:label="زیر (کسره)" spc:value="\u0650" />
+		<Char spc:label="ساکن" spc:value="\u0652" />
+		<Char spc:label="تشدید" spc:value="\u0651" />
+		<Char spc:label="دوزبر (تنوین فتح)" spc:value="\u064b" />
+		<Char spc:label="دوپیش (تنوین ضمه)" spc:value="\u064c" />
+		<Char spc:label="دوزیر (تنوین کسره)" spc:value="\u064d" />
+		<Char spc:label="مد" spc:value="\u0653" />
+		<Char spc:label="الف مکسورهٔ بالا" spc:value="\u0670" />
+		<Char spc:label="الف مکسورهٔ پایین" spc:value="\u0656" />
+		<Char spc:label="همزهٔ بالا" spc:value="\u0654" />
+		<Char spc:label="همزهٔ پایین" spc:value="\u0655" />
+	</Group>
+	<Group spc:label="علامتها">
+		<Char spc:label="جدا کنندهٔ هزاره‌ها" spc:value="\u066c" />
+		<Char spc:label="جدا کنندهٔ اعشار" spc:value="\u066b" />
+		<Char spc:label="ریال" spc:value="\ufdfc" />
+		<Char spc:label="درصد" spc:value="\u066a" />
+		<Char spc:label="سه‌نقطه" spc:value="\u2026" />
+		<Char spc:label="گلوله" spc:value="\u2022" />
+	</Group>
+	<Group spc:label="حروف">
+		<Char spc:label="ی عربی" spc:value="\u064a" />
+		<Char spc:label="الف مکسوره" spc:value="\u0649" />
+		<Char spc:label="ت گرد" spc:value="\u0629" />
+		<Char spc:label="کاف عربی" spc:value="\u0643" />
+		<Char spc:label="الف وصل" spc:value="\u0671" />
+	</Group>
+	<Group spc:label="پرانتزگذاری">
+		<Char spc:label="گیومهٔ باز" spc:value="\u00ab" />
+		<Char spc:label="گیومهٔ بسته" spc:value="\u00bb" />
+	</Group>
+	<Group spc:label="کنترلی">
+		<Char spc:label="علامت چپ به راست" spc:value="\u200e" />
+		<Char spc:label="علامت راست به چپ" spc:value="\u200f" />
+		<Char spc:label="زیرمتن جپ به راست" spc:value="\u202a" />
+		<Char spc:label="زیرمتن راست به چپ" spc:value="\u202b" />
+		<Char spc:label="زیرمتن اکیداً چپ به راست" spc:value="\u202d" />
+		<Char spc:label="زیرمتن اکیداً راست به چپ" spc:value="\u202e" />
+		<Char spc:label="پایان زیرمتن" spc:value="\u202c" />
+	</Group>
+</SpecialChars>

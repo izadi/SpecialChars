@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Special Characters</string>
+    <string name="button_copy">Copy</string>
+    <string name="actionKeyboard">Keyboard</string>
+</resources>

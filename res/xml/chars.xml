@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpecialChars xmlns:spc="http://schemas.android.com/apk/res/com.github.izadi.specialchars">
+	<Group spc:label="Spacing">
+		<Char spc:label="Zero Width Non-Joiner" spc:value="\u200c" />
+		<Char spc:label="Zero Width Joiner" spc:value="\u200d" />
+		<Char spc:label="No-Break Space" spc:value="\u00a0" />
+	</Group>
+	<Group spc:label="Harakat">
+		<Char spc:label="Arabic Fatha" spc:value="\u064e" />
+		<Char spc:label="Arabic Damma" spc:value="\u064f" />
+		<Char spc:label="Arabic Kasra" spc:value="\u0650" />
+		<Char spc:label="Arabic Sukun" spc:value="\u0652" />
+		<Char spc:label="Arabic Shadda" spc:value="\u0651" />
+		<Char spc:label="Arabic Fathatan" spc:value="\u064b" />
+		<Char spc:label="Arabic Dammatan" spc:value="\u064c" />
+		<Char spc:label="Arabic Kasratan" spc:value="\u064d" />
+		<Char spc:label="Arabic Madda Above" spc:value="\u0653" />
+		<Char spc:label="Arabic Letter Superscript Alef" spc:value="\u0670" />
+		<Char spc:label="Arabic Subscript Alef" spc:value="\u0656" />
+		<Char spc:label="Arabic Hamza Above" spc:value="\u0654" />
+		<Char spc:label="Arabic Hamza Below" spc:value="\u0655" />
+	</Group>
+	<Group spc:label="Signs">
+		<Char spc:label="Arabic Thousands Separator" spc:value="\u066c" />
+		<Char spc:label="Arabic Decimal Separator" spc:value="\u066b" />
+		<Char spc:label="Rial Sign" spc:value="\ufdfc" />
+		<Char spc:label="Arabic Percent Sign" spc:value="\u066a" />
+		<Char spc:label="Horizontal Ellipsis" spc:value="\u2026" />
+		<Char spc:label="Bullet" spc:value="\u2022" />
+	</Group>
+	<Group spc:label="Letters">
+		<Char spc:label="Arabic Letter Yeh" spc:value="\u064a" />
+		<Char spc:label="Arabic Letter Alef Maksura" spc:value="\u0649" />
+		<Char spc:label="Arabic Letter Teh Marbuta" spc:value="\u0629" />
+		<Char spc:label="Arabic Letter Kaf" spc:value="\u0643" />
+		<Char spc:label="Arabic Letter Alef Wasla" spc:value="\u0671" />
+	</Group>
+	<Group spc:label="Braces">
+		<Char spc:label="Left-Pointing Double Angle Quotation Mark" spc:value="\u00ab" />
+		<Char spc:label="Right-Pointing Double Angle Quotation Mark" spc:value="\u00bb" />
+	</Group>
+	<Group spc:label="Control Marks">
+		<Char spc:label="Left-To-Right Mark" spc:value="\u200e" />
+		<Char spc:label="Right-To-Left Mark" spc:value="\u200f" />
+		<Char spc:label="Left-To-Right Embedding" spc:value="\u202a" />
+		<Char spc:label="Right-To-Left Embedding" spc:value="\u202b" />
+		<Char spc:label="Left-To-Right Override" spc:value="\u202d" />
+		<Char spc:label="Right-To-Left Override" spc:value="\u202e" />
+		<Char spc:label="Pop Directional Formatting" spc:value="\u202c" />
+	</Group>
+</SpecialChars>
